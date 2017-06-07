@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="match_parent"
+
+
+    android:orientation="horizontal">
+
+
+
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <ImageButton
+            android:layout_width="220px"
+            android:layout_height="220px"
+            android:layout_margin="5dp"
+            android:id="@+id/boton1"
+            android:onClick="accionboton"
+            android:src="@drawable/ct"
+            android:scaleType="fitXY"
+            />
+
+        <ImageButton
+            android:layout_width="220px"
+            android:layout_height="220px"
+            android:layout_margin="5dp"
+            android:id="@+id/boton4"
+            android:onClick="accionboton"
+            android:src="@drawable/ct"
+            android:scaleType="fitXY"
+            />
+
+        <ImageButton
+            android:layout_width="220px"
+            android:layout_height="220px"
+            android:layout_margin="5dp"
+            android:id="@+id/boton7"
+            android:onClick="accionboton"
+            android:src="@drawable/ct"
+            android:scaleType="fitXY"
+            />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <ImageButton
+            android:layout_width="220px"
+            android:layout_height="220px"
+            android:layout_margin="5dp"
+            android:id="@+id/boton2"
+            android:onClick="accionboton"
+            android:src="@drawable/ct"
+            android:scaleType="fitXY"
+            />
+
+        <ImageButton
+            android:layout_width="220px"
+            android:layout_height="220px"
+            android:layout_margin="5dp"
+            android:id="@+id/boton5"
+            android:onClick="accionboton"
+            android:src="@drawable/ct"
+            android:scaleType="fitXY"
+            />
+
+        <ImageButton
+            android:layout_width="220px"
+            android:layout_height="220px"
+            android:layout_margin="5dp"
+            android:id="@+id/boton8"
+            android:onClick="accionboton"
+            android:src="@drawable/ct"
+            android:scaleType="fitXY"
+            />
+
+
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        >
+
+        <ImageButton
+            android:layout_width="220px"
+            android:layout_height="220px"
+            android:layout_margin="5dp"
+            android:id="@+id/boton3"
+            android:onClick="accionboton"
+            android:src="@drawable/ct"
+            android:scaleType="fitXY"
+            />
+
+        <ImageButton
+            android:layout_width="220px"
+            android:layout_height="220px"
+            android:layout_margin="5dp"
+            android:id="@+id/boton6"
+            android:onClick="accionboton"
+            android:src="@drawable/ct"
+            android:scaleType="fitXY"
+            />
+
+        <ImageButton
+            android:layout_width="220px"
+            android:layout_height="220px"
+            android:layout_margin="5dp"
+            android:id="@+id/boton9"
+            android:onClick="accionboton"
+            android:src="@drawable/ct"
+            android:scaleType="fitXY"
+            />
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            >
+        </LinearLayout>
+
+    </LinearLayout>
+
+
+
+</LinearLayout>
+
+
+
+
+
+
+

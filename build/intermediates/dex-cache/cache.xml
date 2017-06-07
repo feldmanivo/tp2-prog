@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\42301504\.android\build-cache\2f20bd46117831c632e080d2ab5fc3d4dad93b6c\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="C:\Users\42301504\Desktop\tp2\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_66082af5a49e5122ff0a33ad0c0668d7c995dbbe\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\42301504\.android\build-cache\d4e07dba63e38a1995b890badad21094f0325ac7\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="C:\Users\42301504\Desktop\tp2\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d12bbf0d32beba9cc5580870adf053d7ae4151d5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\42301504\Desktop\tp2\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="12920f9016b8b05acbc2af7cdc13cef6946fe7d3">
+        <dex dex="C:\Users\42301504\Desktop\tp2\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_40fe5e5d93622fdb199c59b51dfe88dcbc13ded1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\42301504\.android\build-cache\1b74741d107379806d08be8613fe41644b7f1266\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="C:\Users\42301504\Desktop\tp2\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_bcf3d4a4c0ae0e3310f75d066dcd57e0a0903749\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\42301504\Desktop\tp2\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1e49d58005f087a581093163be34b280539e2403">
+        <dex dex="C:\Users\42301504\Desktop\tp2\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_2a6f3d2881939e3676e818b8cc92c07cb02e6ba6\classes.dex" />
+    </item>
+
+</items>
